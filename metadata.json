@@ -1,0 +1,6 @@
+{
+  "name": "TikPorn Player",
+  "description": "Full-screen fast web viewer and download manager for Tik.porn with offline cache and video playback optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
